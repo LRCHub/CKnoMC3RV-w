@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "slaylight",
+  "base_artist": "Cosmoslay",
+  "createdAt": "2026-04-03T11:59:20.303899Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "slaylight",
+      "artist": "Cosmoslay",
+      "has_synced": false,
+      "path": "select/pl_01_slaylight_Cosmoslay.txt"
+    }
+  ]
+}
